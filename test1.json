@@ -1,0 +1,485 @@
+[
+   {
+       "sn": "",
+       "cn": "AuraSense",
+       "llogo": "it/fos/iot/initializer/aura/logoLeft.png",
+       "rlogo": "it/fos/iot/initializer/aura/logoRight.png"
+   },
+   {
+       "gn": "Aura",
+       "n": "Soil Temperature and Humidity I2C Sensor Catnip 1",
+       "gnl": "Aura",
+       "nl": "Soil Temperature and Humidity I2C Sensor Catnip 1",
+       "gi": "Aura.png",
+       "i": "temperature_humidity.png",
+       "pv": {
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 25.5
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 62
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:15:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "Soil Temperature and Humidity I2C Sensor Catnip 2",
+       "gnl": "Aura",
+       "nl": "Soil Temperature and Humidity I2C Sensor Catnip 2",
+       "gi": "Aura.png",
+       "i": "temperature_humidity.png",
+       "pv": {
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 26.1
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 58
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:16:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "Soil Temperature and Humidity I2C Sensor Catnip 3",
+       "gnl": "Aura",
+       "nl": "Soil Temperature and Humidity I2C Sensor Catnip 3",
+       "gi": "Aura.png",
+       "i": "temperature_humidity.png",
+       "pv": {
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 24.8
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 65
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:17:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "Soil Temperature and Humidity I2C Sensor Catnip 4",
+       "gnl": "Aura",
+       "nl": "Soil Temperature and Humidity I2C Sensor Catnip 4",
+       "gi": "Aura.png",
+       "i": "temperature_humidity.png",
+       "pv": {
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 27.3
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 55
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:18:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "BME688",
+       "gnl": "Aura",
+       "nl": "Sensore BME688",
+       "gi": "Aura.png",
+       "i": "air.png",
+       "pv": {
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 24.2
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 68
+           },
+           "atmospheric_pressure": {
+               "n": "Pressione atmosferica",
+               "u": "hPa",
+               "v": 1013.2
+           },
+           "gas_resistance": {
+               "n": "Resistenza a gas",
+               "u": "kΩ",
+               "v": 2.5
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:20:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "SFA3x",
+       "gnl": "Aura",
+       "nl": "Sensore Formaldehyde",
+       "gi": "Aura.png",
+       "i": "formaldehyde.png",
+       "pv": {
+           "formaldehyde_ppb": {
+               "n": "Formaldehyde",
+               "u": "ppb",
+               "v": 12
+           },
+           "formaldehyde_ug_m3": {
+               "n": "Formaldehyde",
+               "u": "µg/m³",
+               "v": 3.5
+           },
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 25.8
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 60
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:21:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "SEN5x",
+       "gnl": "Aura",
+       "nl": "SEN5x",
+       "gi": "Aura.png",
+       "i": "air.png",
+       "pv": {
+           "pm1_ug_m3": {
+               "n": "PM₁",
+               "u": "µg/m³",
+               "v": 4.2
+           },
+           "pm2p5_ug_m3": {
+               "n": "PM₂.₅",
+               "u": "µg/m³",
+               "v": 9.7
+           },
+           "pm2p5_aqi": {
+               "n": "AQI index PM₂.₅",
+               "u": "",
+               "v": 38
+           },
+           "pm4p0_ug_m3": {
+               "n": "PM₄.₀",
+               "u": "µg/m³",
+               "v": 6.8
+           },
+           "pm10_ug_m3": {
+               "n": "PM₁₀",
+               "u": "µg/m³",
+               "v": 14.5
+           },
+           "pm10_aqi": {
+               "n": "AQI index PM₁₀",
+               "u": "",
+               "v": 57
+           },
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 26.5
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 54
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:22:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "SCD30",
+       "gnl": "Aura",
+       "nl": "SCD30",
+       "gi": "Aura.png",
+       "i": "air.png",
+       "pv": {
+           "co2_ppm": {
+               "n": "CO₂",
+               "u": "ppm",
+               "v": 750
+           },
+           "co2_mg_m3": {
+               "n": "CO₂",
+               "u": "mg/m³",
+               "v": 1.5
+           },
+           "co2_aqi": {
+               "n": "AQI Index CO₂",
+               "u": "",
+               "v": 60
+           },
+           "temperature": {
+               "n": "Temperatura",
+               "u": "°C",
+               "v": 27.1
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 53
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:23:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "SEN0321",
+       "gnl": "Aura",
+       "nl": "SEN0321",
+       "gi": "Aura.png",
+       "i": "air.png",
+       "pv": {
+           "o3_ppm": {
+               "n": "O₃",
+               "u": "ppm",
+               "v": 0.02
+           },
+           "o3_mg_m3": {
+               "n": "O₃",
+               "u": "mg/m³",
+               "v": 0.04
+           },
+           "o3_ug_m3": {
+               "n": "O₃",
+               "u": "µg/m³",
+               "v": 20
+           },
+           "o3_aqi": {
+               "n": "AQI Index Ozone (O₃)",
+               "u": "",
+               "v": 5
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:24:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "MultichannelGasSensorV2",
+       "gnl": "Aura",
+       "nl": "MultichannelGasSensorV2",
+       "gi": "Aura.png",
+       "i": "gas.png",
+       "pv": {
+           "no2_volt": {
+               "n": "NO₂",
+               "u": "V",
+               "v": 1.2
+           },
+           "no2_ppm": {
+               "n": "NO₂",
+               "u": "ppm",
+               "v": 0.4
+           },
+           "no2_ug_m3": {
+               "n": "NO₂",
+               "u": "µg/m³",
+               "v": 18
+           },
+           "no2_aqi": {
+               "n": "AQI Index NO₂",
+               "u": "",
+               "v": 15
+           },
+           "co_volt": {
+               "n": "CO",
+               "u": "V",
+               "v": 0.8
+           },
+           "co_ppm": {
+               "n": "CO",
+               "u": "ppm",
+               "v": 0.2
+           },
+           "co_ug_m3": {
+               "n": "CO",
+               "u": "µg/m³",
+               "v": 8
+           },
+           "co_aqi": {
+               "n": "AQI Index CO",
+               "u": "",
+               "v": 3
+           },
+           "c2h5oh_volt": {
+               "n": "C₂H₅OH",
+               "u": "V",
+               "v": 2.1
+           },
+           "c2h5oh_ppm": {
+               "n": "C₂H₅OH",
+               "u": "ppm",
+               "v": 1.0
+           },
+           "c2h5oh_ug_m3": {
+               "n": "C₂H₅OH",
+               "u": "µg/m³",
+               "v": 35
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:25:00"
+           }
+       }
+   },
+   {
+       "gn": "Aura",
+       "n": "Irrigation",
+       "gnl": "Aura",
+       "nl": "Irrigation",
+       "gi": "Aura.png",
+       "i": "humidity.png",
+       "pv": {
+           "run": {
+               "n": "Stato",
+               "v": 0,
+               "u": ""
+           },
+           "humidity": {
+               "n": "Umidità",
+               "u": "%",
+               "v": 40
+           },
+           "update_date": {
+               "n": "Data",
+               "v": "2023-07-30 10:26:00"
+           }
+       },
+       "ptv": {
+           "humidity": {
+               "n": "Umidità",
+               "u": "%"
+           }
+       }
+   },
+   {
+       "gn": "RASPBERRY",
+       "n": "SystemCpuStatus",
+       "gnl": "Raspberry PI",
+       "nl": "CPU",
+       "gi": "RASPBERRY.png",
+       "i": "cpu.png",
+       "pv": {
+           "cpuJava": {
+               "n": "Java",
+               "v": 0.6,
+               "u": "%"
+           },
+           "cpuSystem": {
+               "n": "Sistema",
+               "v": 9.5,
+               "u": "%"
+           },
+           "cpuTemperature": {
+               "n": "Temperatura",
+               "v": 60.4,
+               "u": "°C"
+           },
+           "update_date": {
+               "n": "Data",
+               "v": 1690736981612
+           }
+       }
+   },
+   {
+       "gn": "RASPBERRY",
+       "n": "SystemMemoryStatus",
+       "gnl": "Raspberry PI",
+       "nl": "RAM",
+       "gi": "RASPBERRY.png",
+       "i": "ram.png",
+       "pv": {
+           "memoryJava": {
+               "n": "Java utilizzata",
+               "v": 77.9,
+               "u": "MB"
+           },
+           "memoryJavaMax": {
+               "n": "Java Max",
+               "v": 172.6,
+               "u": "MB"
+           },
+           "memorySystem": {
+               "n": "Sistema utilizzata",
+               "v": 547.4,
+               "u": "MB"
+           },
+           "memorySystemMax": {
+               "n": "Sistema Max",
+               "v": 3794.3,
+               "u": "MB"
+           },
+           "update_date": {
+               "n": "Data",
+               "v": 1690736980610
+           }
+       }
+   },
+   {
+       "gn": "RASPBERRY",
+       "n": "SystemStorageStatus",
+       "gnl": "Raspberry PI",
+       "nl": "Memoria di massa",
+       "gi": "RASPBERRY.png",
+       "i": "disk.png",
+       "pv": {
+           "usedStorageSystem": {
+               "n": "Utilizzata",
+               "v": 8.797,
+               "u": "GB"
+           },
+           "totalStorageSystem": {
+               "n": "Totale",
+               "v": 28.984,
+               "u": "GB"
+           },
+           "update_date": {
+               "n": "Data",
+               "v": 1690736920587
+           }
+       }
+   }
+]
